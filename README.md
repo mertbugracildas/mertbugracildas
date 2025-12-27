@@ -5,7 +5,7 @@
   <br>
 
   <p>
-    Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. <b>Yapay Zeka, Veri Bilimi ve Python</b> üzerine projeler geliştiriyorum. <br>
+    Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. <b>Yapay Zeka ve Python</b> üzerine projeler geliştiriyorum. <br>
     Yeni teknolojileri öğrenmeyi ve problemleri kodla çözmeyi seviyorum. 🚀
   </p>
   
