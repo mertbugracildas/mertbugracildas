@@ -1,0 +1,2 @@
+# mertbugracildas
+"Merhaba, ben Mert!"
